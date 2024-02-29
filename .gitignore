@@ -1,0 +1,31 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.DS_Store
+[Tt]humbs.db
+
+# Logs e arquivos de depuração
+*.log
+*.log.*
+*.mdb
+*.pdb
+
+# Arquivos de usuário Visual Studio
+ipch/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos NuGet
+packages/
+
+# Arquivos de configuração
+*.vscode/
+*.vs2019/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
